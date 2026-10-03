@@ -1,0 +1,107 @@
+Patient_ID,Age,Gender,Disease,Medication,Dosage
+P1067,16,Female,Bacterial Infection,Amoxicillin,500 mg
+P1036,46,M,Hypertension,Amlodipine,5 mg
+P1060,53,male,Hypertension,Telmisartan,40 mg
+P1078,,male,Bacterial Infection,Amoxicillin,250 mg
+P1040,3,Male,Bacterial Infection,Amoxicillin,500 mg
+P1057,72,Male,Hypertension,Amlodipine,5 mg
+P1056,48,Male,Hyperlipidemia,Atorvastatin,20 mg
+P1088,52,Male,Fever,Paracetamol,500 mg
+P1032,23,female,Bacterial Infection,Amoxicillin,250 mg
+P1059,54,Female,Hypertension,Telmisartan,
+P1006,52,Male,Arthritis,Diclofenac,50 mg
+P1049,45,Female,Hypertension,Amlodipine,5 mg
+P1094,67,Female,Hyperlipidemia,Atorvastatin,40 mg
+P1054,39,Male,GERD,Pantoprazole,20 mg
+P1034,28,Male,Bacterial Infection,Amoxicillin,500 mg
+P1091,65,Female,Hypertension,Telmisartan,80 mg
+P1039,87,Female,Hypertension,Amlodipine,5 mg
+P1071,61,Female,Hypertension,Amlodipine,10 mg
+P1018,150,Female,Arthritis,Diclofenac,75 mg
+P1075,47,Male,Bacterial Infection,Amoxicillin,500 mg
+P1078,,male,Bacterial Infection,Amoxicillin,250 mg
+P1089,47 years,Female,GERD,,40 mg
+P1083,34,FEMALE ,Bacterial Infection,Amoxicillin,500 mg
+P1047,64,Male,Type 2 Diabetes,Metformin,850 mg
+P1045,11,Male,Fever,Paracetamol,500 mg
+P1043,53,Male,Hypertension ,Telmisartan,40 mg
+P1086,63,Male,Type 2 Diabetes,Metformin,850 mg
+P1087,50 years,Female,Arthritis,Diclofenac,50 mg
+P1084,55,Male,Type 2 Diabetes,Metformin,850 mg
+P1092,64,Female,Arthritis,Diclofenac,50 mg
+P1011,19,Female,Bacterial Infection,Amoxicillin,250mg
+P1003,49,Male,Hypertension,Telmisartan,40 mg
+P1033,57,Female,Arthritis,Diclofenac,75 mg
+P1095,28,Female,Fever,Paracetamol,650 mg
+P1020,39,Male,Type 2 Diabetes,Metformin,500 mg
+P1028,30,Male,GERD,Pantoprazole,40 mg
+P1037,11,Female,Bacterial Infection,Amoxicillin,500 mg
+P1055,60,Male,GERD,Pantoprazole,40 mg
+P1079,15,Female,Bacterial Infection,Amoxicillin,
+P1081,27,Female,GERD ,Pantoprazole,40mg
+P1096,,Female,Hypertension,Telmisartan,80 mg
+P1041,22,Male,Bacterial Infection,Amoxicillin,250 mg
+P1070,70,Male,Hyperlipidemia ,Atorvastatin,10 mg
+P1099,36,Male,Fever,Paracetamol,650 mg
+P1100,65,Female,Arthritis,Diclofenac,
+P1024,,Male,Hypertension,Telmisartan,80 mg
+P1035,71,Male,Hypertension,Amlodipine,10 mg
+P1093,57,Female,Hypertension,Telmisartan,80 mg
+P1063,58,Male,Hypertension,Telmisartan,40 mg
+P1074,60,Male,Hypertension,Telmisartan,40mg
+P1016,27,Male,Bacterial Infection,Amoxicillin,250 mg
+P1090,32,,Bacterial Infection,Amoxicillin,250 mg
+P1042,53,Male,Hyperlipidemia,Atorvastatin,10 mg
+P1052,58,Female,Type 2 Diabetes,Metformin,850 mg
+P1046,44,Female,Type 2 Diabetes,,850 mg
+P1098,68,Female,Hyperlipidemia,Atorvastatin,40 mg
+P1053,8,MALE,Fever,Paracetamol,500 mg
+P1027,38,Male,Type 2 Diabetes,Metformin,850mg
+P1013,56,Female,Type 2 Diabetes,Metformin,1000 mg
+P1044,,Male,arthritis,Diclofenac,75 mg
+P1066,45,male,Hyperlipidemia,Atorvastatin,10mg
+P1025,39,Female,Bacterial Infection,Amoxicillin,250 mg
+P1005,48,Female,Hypertension,Amlodipine,10mg
+P1068,44,female,Type 2 Diabetes,Metformin,850 mg
+P1065,47,Male,Type 2 Diabetes,Metformin,850 mg
+P1050,53,Female,Hyperlipidemia,Atorvastatin,10 mg
+P1022,34,Female,Bacterial Infection,Amoxicillin,250 mg
+P1004,68,,Arthritis,Diclofenac,75 mg
+P1031,34,MALE,Type 2 Diabetes,Metformin,1000 mg
+P1048,46,Male,Type 2 Diabetes,Metformin,850 mg
+P1082,51,Male,Arthritis,Diclofenac,75 mg
+P1009,47,Male,hyperlipidemia,Atorvastatin,40 mg
+P1061,71,M,Arthritis,Diclofenac,50 mg
+P1001,41,,Hyperlipidemia,Atorvastatin,10 mg
+P1097,3,Female,BACTERIAL INFECTION,Amoxicillin,
+P1058,57,Female,Hypertension,Telmisartan,80 mg
+P1023,45,Male,Hyperlipidemia,Atorvastatin,20 mg
+P1062,24,Female,Fever,Paracetamol,500 mg
+P1064,-5,,Bacterial Infection,Amoxicillin,500mg
+P1008,58,Male,Type 2 Diabetes,Metformin,1000 mg
+P1095,28,Female,Fever,Paracetamol,650 mg
+P1014,58,Female,Hypertension,Telmisartan,40 mg
+P1069,22,Male,GERD,Pantoprazole,20 mg
+P1092,64,Female,Arthritis,Diclofenac,50 mg
+P1015,,Female,Arthritis,Diclofenac,75 mg
+P1030,51,Male,Type 2 Diabetes ,Metformin,850 mg
+P1029,25,Female,,Montelukast,10 mg
+P1012,59,Female,Type 2 Diabetes,Metformin,850 mg
+P1085,,Male,Hypertension,Amlodipine,5 mg
+P1019,50,MALE,Type 2 Diabetes,Metformin,1000 mg
+P1021,59,Female,Hypertension,Telmisartan,40 mg
+P1051,56,Female,Type 2 Diabetes,Metformin,850 mg
+P1026,49,F,Type 2 Diabetes,Metformin,850 mg
+P1007,36,Male,GERD,Pantoprazole,40 mg
+P1072,51,F,,Metformin,850 mg
+P1077,86,Male,Hypertension,Amlodipine,5 mg
+P1002,44,Female,HYPERTENSION,Telmisartan,80 mg
+P1017,66,Female,Arthritis,Diclofenac,50 mg
+P1065,47,Male,Type 2 Diabetes,Metformin,850 mg
+P1080,40,Female,Hypertension,Amlodipine,
+P1006,52,Male,Arthritis,Diclofenac,50 mg
+P1076,32,female,Bacterial Infection,Amoxicillin,250 mg
+P1010,60,Male,Type 2 Diabetes,Metformin,850 mg
+P1073,52,Male,Type 2 Diabetes,Metformin,500 mg
+P1013,56,Female,Type 2 Diabetes,Metformin,1000 mg
+P1038,47,Female,Hypertension,Amlodipine,10 mg
